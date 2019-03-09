@@ -1,0 +1,14 @@
+{
+  "name": "electron-project",
+  "version": "1.0.0",
+  "description": "shopping list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Logan Miller",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.8"
+  }
+}
